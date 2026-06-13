@@ -14,6 +14,8 @@ A community-created collection of custom agents, instructions, skills, hooks, wo
 
 New to GitHub Copilot customization? The **[Learning Hub](https://awesome-copilot.github.com/learning-hub)** on the website offers curated articles, walkthroughs, and reference material — covering everything from core concepts like agents, skills, and instructions to hands-on guides for hooks, agentic workflows, MCP servers, and the Copilot coding agent.
 
+-- test änderung ts -- test git
+
 ## What's in this repo
 
 | Resource | Description | Browse |
